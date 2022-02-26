@@ -2,7 +2,7 @@
 Image Classification with Machine Learning Alogirthms deployed on Azure ML Studio
 
 ```diff
-Keyowrds: Azure Machine Learning Studio, Logistic regression, LeNet, AlexNet, Convolutional Neural Network, Pytorch, Python, hyperparameter tuning, Model Training and Deployment
+!Keyowrds: Azure Machine Learning Studio, Logistic regression, LeNet, AlexNet, Convolutional Neural Network, Pytorch, Python, hyperparameter tuning, Model Training and Deployment
 ```
 The project is divided into five parts:
 
@@ -23,6 +23,6 @@ This Machine Learning end-to-end project consists of the following tasks:
 General Details The following table contains general information about this project module:
 
     Prerequisites 	     :   Python3, PyTorch
-    Concepts 	       :   Deep Learning and Computer Vision, Machine Learning with Azure, PyTorch
+    Concepts 	     :   Deep Learning and Computer Vision, Machine Learning with Azure, PyTorch
     Applicable languages :	 Python3
     Applicable platform  :	 Jupyter Notebook, Azure Machine Learning Studio 
