@@ -1,6 +1,8 @@
 # Image-Classification-using-Convolutional-Neural-Network-and-Logistic-Regression
 Image Classification with Machine Learning Alogirthms deployed in Azure ML Studio
 
+Keyowrds: Azure Machine Learning Studio, Logistic regression, LeNet, AlexNet, Convolutional Neural Network, Pytorch, Python, hyperparameter tuning, Model Training and Deployment
+
 The project is divided into five parts:
 
     1. CIFAR-10 Dataset Overview
